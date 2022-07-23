@@ -1,0 +1,21 @@
+td#red {
+   color: black;
+   background-color: rgb(228, 138, 138);
+   border-color:gray;
+}
+
+td#yellow {
+   background-color: yellow;
+   color: black;
+}
+table {
+   text-align: center;
+}
+td#blue {
+   background-color: rgb(59, 105, 233);
+   color:black
+}
+td#green {
+   background-color: green;
+   color:black
+}
